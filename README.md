@@ -27,7 +27,7 @@ if(user.rejectedCookies){
 ><img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black"> <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black">  <img src="https://img.shields.io/badge/lightroom-31A8FF?style=for-the-badge&logo=adobelightroomclassic&logoColor=black"> 
 >
 > ### contact
-><a href="(https://www.instagram.com/violeta_ffotto/)" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+><a href="https://www.instagram.com/violeta_ffotto/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 ><a href="kl22712549@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 
