@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&text=PigKidney&animation=fadeIn&fontSize=30&height=100&fontAlign=15&fontAlignY=75&desc=Github&descSize=22&descAlign=28&descAlignY=77)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&text=PigKidney&animation=fadeIn&fontSize=30&height=100&fontAlign=15&fontAlignY=75&desc=Github&descSize=22&descAlign=28&descAlignY=77&fontColor=4D377B)
 
 > [!TIP]
 > *The way to get started is to quit talking and begin doing.* 
