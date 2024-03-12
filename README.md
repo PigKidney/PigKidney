@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&text=PigKidney&animation=fadeIn&fontSize=30&height=100&fontAlign=15&fontAlignY=75&desc=Github&descSize=22&descAlign=28&descAlignY=77&fontColor=4D377B)
 
-> [!TIP]
-> *The way to get started is to quit talking and begin doing.* 
+>### 포트폴리오 상세
+> <a href="https://pigkideny.notion.site/Yang-Gwonmo-bbb56b1f4b914eadbbbaf2409a49bb04" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+
+
+*The way to get started is to quit talking and begin doing.* 
 ```javascript
 if(user.rejectedCookies){
   collectData({silent: true});
