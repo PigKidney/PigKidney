@@ -5,13 +5,7 @@
 
 
 *The way to get started is to quit talking and begin doing.* 
-```javascript
-if(user.rejectedCookies){
-  collectData({silent: true});
-} else {
-  collectData();
-}
-```   
+ 
 ***   
       
 
